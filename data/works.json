@@ -1,6 +1,7 @@
 {
   "works": [
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/FIC001",
       "id": "FIC001",
       "series": "ficciones",
       "titleEn": "ficciones 1",
@@ -14,10 +15,10 @@
         "unit": "cm",
         "depth": 3
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/FIC001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL001",
       "id": "PEL001",
       "series": "peligro-de-extincion",
       "titleEn": "peligro de extinción 1",
@@ -28,12 +29,13 @@
       "dimensions": {
         "height": 100,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL002",
       "id": "PEL002",
       "series": "peligro-de-extincion",
       "titleEn": "peligro de extinción 2",
@@ -44,12 +46,13 @@
       "dimensions": {
         "height": 100,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL003",
       "id": "PEL003",
       "series": "peligro-de-extincion",
       "titleEn": "peligro de extinción 3",
@@ -60,12 +63,13 @@
       "dimensions": {
         "height": 100,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL004",
       "id": "PEL004",
       "series": "peligro-de-extincion",
       "titleEn": "peligro de extinción 4",
@@ -76,12 +80,13 @@
       "dimensions": {
         "height": 100,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL005",
       "id": "PEL005",
       "series": "peligro-de-extincion",
       "titleEn": "peligro de extinción 5",
@@ -92,12 +97,13 @@
       "dimensions": {
         "height": 100,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL005",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL006",
       "id": "PEL006",
       "series": "peligro-de-extincion",
       "titleEn": "peligro de extinción 6",
@@ -108,12 +114,13 @@
       "dimensions": {
         "height": 100,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEL006",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE001",
       "id": "SUE001",
       "series": "vision-de-filippo",
       "titleEn": "visión de filippo 2",
@@ -124,12 +131,13 @@
       "dimensions": {
         "height": 60,
         "width": 90,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE002",
       "id": "SUE002",
       "series": "vision-de-filippo",
       "titleEn": "visión de filippo 3",
@@ -140,12 +148,13 @@
       "dimensions": {
         "height": 60,
         "width": 90,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE003",
       "id": "SUE003",
       "series": "vision-de-filippo",
       "titleEn": "visión de filippo 1",
@@ -156,12 +165,13 @@
       "dimensions": {
         "height": 60,
         "width": 90,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE004",
       "id": "SUE004",
       "series": "vision-de-filippo",
       "titleEn": "visión de filippo 5",
@@ -172,12 +182,13 @@
       "dimensions": {
         "height": 60,
         "width": 90,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE005",
       "id": "SUE005",
       "series": "vision-de-filippo",
       "titleEn": "visión de filippo 6",
@@ -188,12 +199,13 @@
       "dimensions": {
         "height": 60,
         "width": 90,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SUE005",
       "order": 5
     },
     {
+      "cloudinaryUrl": "",
       "id": "SUE006",
       "series": "vision-de-filippo",
       "titleEn": "pendiente",
@@ -204,12 +216,13 @@
       "dimensions": {
         "height": 60,
         "width": 90,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BER001",
       "id": "BER001",
       "series": "headless",
       "titleEn": "berzerk",
@@ -220,12 +233,13 @@
       "dimensions": {
         "height": 38,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BER001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SHI001",
       "id": "SHI001",
       "series": "headless",
       "titleEn": "shiver",
@@ -236,12 +250,13 @@
       "dimensions": {
         "height": 30,
         "width": 38,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SHI001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CIB001",
       "id": "CIB001",
       "series": "headless",
       "titleEn": "ciber man",
@@ -252,12 +267,13 @@
       "dimensions": {
         "height": 30,
         "width": 38,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CIB001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/FLE001",
       "id": "FLE001",
       "series": "headless",
       "titleEn": "flesh will melt",
@@ -268,12 +284,13 @@
       "dimensions": {
         "height": 30,
         "width": 38,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/FLE001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MEM001",
       "id": "MEM001",
       "series": "headless",
       "titleEn": "memorex",
@@ -284,12 +301,13 @@
       "dimensions": {
         "height": 38,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MEM001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/COI001",
       "id": "COI001",
       "series": "headless",
       "titleEn": "coins",
@@ -300,12 +318,13 @@
       "dimensions": {
         "height": 30,
         "width": 38,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/COI001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/THI001",
       "id": "THI001",
       "series": "headless",
       "titleEn": "think deep",
@@ -316,12 +335,13 @@
       "dimensions": {
         "height": 38,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/THI001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MHH001",
       "id": "MHH001",
       "series": "pixelogue",
       "titleEn": "more human than human",
@@ -332,12 +352,13 @@
       "dimensions": {
         "height": 155,
         "width": 140,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MHH001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/YJD001",
       "id": "YJD001",
       "series": "pixelogue",
       "titleEn": "you just disappeared",
@@ -348,12 +369,13 @@
       "dimensions": {
         "height": 155,
         "width": 140,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/YJD001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IWH001",
       "id": "IWH001",
       "series": "pixelogue",
       "titleEn": "inaudible whisper",
@@ -364,12 +386,13 @@
       "dimensions": {
         "height": 155,
         "width": 140,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IWH001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEW001",
       "id": "PEW001",
       "series": "pixelogue",
       "titleEn": "pew pew pew",
@@ -380,12 +403,13 @@
       "dimensions": {
         "height": 155,
         "width": 140,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEW001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV001",
       "id": "REV001",
       "series": "nude-reviseted",
       "titleEn": "reviseted 1",
@@ -396,12 +420,13 @@
       "dimensions": {
         "height": 120,
         "width": 180,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV002",
       "id": "REV002",
       "series": "nude-reviseted",
       "titleEn": "reviseted 2",
@@ -412,12 +437,13 @@
       "dimensions": {
         "height": 120,
         "width": 180,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV003",
       "id": "REV003",
       "series": "nude-reviseted",
       "titleEn": "reviseted 3",
@@ -428,12 +454,13 @@
       "dimensions": {
         "height": 120,
         "width": 180,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV004",
       "id": "REV004",
       "series": "nude-reviseted",
       "titleEn": "reviseted 4",
@@ -444,12 +471,13 @@
       "dimensions": {
         "height": 120,
         "width": 180,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV005",
       "id": "REV005",
       "series": "nude-reviseted",
       "titleEn": "reviseted 5",
@@ -460,12 +488,13 @@
       "dimensions": {
         "height": 120,
         "width": 180,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REV005",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/HAR001",
       "id": "HAR001",
       "series": "bob-ross-disturbed",
       "titleEn": "harvest pacman",
@@ -476,12 +505,13 @@
       "dimensions": {
         "height": 30,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/HAR001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/EQU001",
       "id": "EQU001",
       "series": "bob-ross-disturbed",
       "titleEn": "equinox mario",
@@ -492,12 +522,13 @@
       "dimensions": {
         "height": 40,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/EQU001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SON001",
       "id": "SON001",
       "series": "bob-ross-disturbed",
       "titleEn": "sonic season",
@@ -508,12 +539,13 @@
       "dimensions": {
         "height": 50,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SON001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SPR001",
       "id": "SPR001",
       "series": "bob-ross-disturbed",
       "titleEn": "springtime kirby",
@@ -524,12 +556,13 @@
       "dimensions": {
         "height": 20,
         "width": 25,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SPR001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/WIN001",
       "id": "WIN001",
       "series": "bob-ross-disturbed",
       "titleEn": "winter mega man",
@@ -540,12 +573,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/WIN001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/AUT001",
       "id": "AUT001",
       "series": "bob-ross-disturbed",
       "titleEn": "autumn qbert",
@@ -556,12 +590,13 @@
       "dimensions": {
         "height": 25,
         "width": 20,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/AUT001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SOL001",
       "id": "SOL001",
       "series": "bob-ross-disturbed",
       "titleEn": "solstice invader",
@@ -572,12 +607,13 @@
       "dimensions": {
         "height": 40,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SOL001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE001",
       "id": "ENE001",
       "series": "enemigo-publico",
       "titleEn": "enemigo público",
@@ -586,12 +622,16 @@
       "technique": "paper/acrylic",
       "techniqueEs": "papel/acrílico",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE002",
       "id": "ENE002",
       "series": "enemigo-publico",
       "titleEn": "enemigo público",
@@ -600,12 +640,16 @@
       "technique": "paper/acrylic",
       "techniqueEs": "papel/acrílico",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE003",
       "id": "ENE003",
       "series": "enemigo-publico",
       "titleEn": "enemigo público",
@@ -614,12 +658,16 @@
       "technique": "paper/acrylic",
       "techniqueEs": "papel/acrílico",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE004",
       "id": "ENE004",
       "series": "enemigo-publico",
       "titleEn": "enemigo público",
@@ -628,12 +676,16 @@
       "technique": "paper/acrylic",
       "techniqueEs": "papel/acrílico",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENE004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BER002",
       "id": "BER002",
       "series": "berser-k",
       "titleEn": "berzerk",
@@ -644,12 +696,13 @@
       "dimensions": {
         "height": 180,
         "width": 180,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BER002",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CIB002",
       "id": "CIB002",
       "series": "berser-k",
       "titleEn": "ciberman",
@@ -660,12 +713,13 @@
       "dimensions": {
         "height": 150,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CIB002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NUC001",
       "id": "NUC001",
       "series": "berser-k",
       "titleEn": "nuclear dj",
@@ -676,12 +730,13 @@
       "dimensions": {
         "height": 180,
         "width": 180,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NUC001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ZIZ001",
       "id": "ZIZ001",
       "series": "berser-k",
       "titleEn": "zigzag zebra",
@@ -692,12 +747,13 @@
       "dimensions": {
         "height": 120,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ZIZ001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BAC001",
       "id": "BAC001",
       "series": "nevermind",
       "titleEn": "backpack",
@@ -708,12 +764,13 @@
       "dimensions": {
         "height": 150,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BAC001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/WW4001",
       "id": "WW4001",
       "series": "nevermind",
       "titleEn": "WW4",
@@ -724,12 +781,13 @@
       "dimensions": {
         "height": 150,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/WW4001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NOB001",
       "id": "NOB001",
       "series": "nevermind",
       "titleEn": "nobody´s a stranger",
@@ -740,12 +798,13 @@
       "dimensions": {
         "height": 150,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NOB001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BTF001",
       "id": "BTF001",
       "series": "nevermind",
       "titleEn": "better than fiction",
@@ -756,12 +815,13 @@
       "dimensions": {
         "height": 150,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/BTF001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/WDY001",
       "id": "WDY001",
       "series": "nevermind",
       "titleEn": "what do you want?",
@@ -772,12 +832,13 @@
       "dimensions": {
         "height": 150,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/WDY001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PLP001",
       "id": "PLP001",
       "series": "nevermind",
       "titleEn": "plastic planet",
@@ -788,12 +849,13 @@
       "dimensions": {
         "height": 150,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PLP001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TEN001",
       "id": "TEN001",
       "series": "nevermind",
       "titleEn": "the end",
@@ -804,12 +866,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TEN001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ATS001",
       "id": "ATS001",
       "series": "anticommands",
       "titleEn": "atesora el silencio",
@@ -820,12 +883,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ATS001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/DEF001",
       "id": "DEF001",
       "series": "anticommands",
       "titleEn": "define beauty",
@@ -836,12 +900,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/DEF001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CAM001",
       "id": "CAM001",
       "series": "anticommands",
       "titleEn": "camina lejos",
@@ -852,12 +917,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CAM001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENJ001",
       "id": "ENJ001",
       "series": "anticommands",
       "titleEn": "enjoy solitude",
@@ -868,12 +934,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ENJ001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ITW001",
       "id": "ITW001",
       "series": "anticommands",
       "titleEn": "in is the way out",
@@ -884,12 +951,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ITW001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/JIL001",
       "id": "JIL001",
       "series": "anticommands",
       "titleEn": "just an illusion",
@@ -900,12 +968,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/JIL001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LEA001",
       "id": "LEA001",
       "series": "anticommands",
       "titleEn": "learn to fly",
@@ -916,12 +985,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LEA001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SWR001",
       "id": "SWR001",
       "series": "anticommands",
       "titleEn": "something´s wrong",
@@ -932,12 +1002,13 @@
       "dimensions": {
         "height": 40,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SWR001",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/OBJ001",
       "id": "OBJ001",
       "series": "objetos-perdidos",
       "titleEn": "objetos perdidos",
@@ -946,12 +1017,16 @@
       "technique": "shovel, soil, gold leaf (AI)",
       "techniqueEs": "pala, tierra, baño de oro (IA)",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/OBJ001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IGT001",
       "id": "IGT001",
       "series": "in-god-we-trust",
       "titleEn": "in god we trust",
@@ -960,12 +1035,16 @@
       "technique": "coins",
       "techniqueEs": "monedas",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IGT001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IGT002",
       "id": "IGT002",
       "series": "in-god-we-trust",
       "titleEn": "in god we trust",
@@ -974,12 +1053,16 @@
       "technique": "mexican coins",
       "techniqueEs": "monedas mexicanas",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IGT002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LIB001",
       "id": "LIB001",
       "series": "libro-negro",
       "titleEn": "libro negro",
@@ -993,10 +1076,10 @@
         "unit": "cm",
         "depth": 15
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LIB001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2985001",
       "id": "2985001",
       "series": "archeology-road",
       "titleEn": "2985ad",
@@ -1007,12 +1090,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2985001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2952001",
       "id": "2952001",
       "series": "archeology-road",
       "titleEn": "2952 ad",
@@ -1023,12 +1107,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2952001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2947001",
       "id": "2947001",
       "series": "archeology-road",
       "titleEn": "2947 ad",
@@ -1039,12 +1124,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2947001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2942001",
       "id": "2942001",
       "series": "archeology-road",
       "titleEn": "2942 ad",
@@ -1055,12 +1141,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2942001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2953001",
       "id": "2953001",
       "series": "archeology-road",
       "titleEn": "2953 ad",
@@ -1071,12 +1158,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2953001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2977001",
       "id": "2977001",
       "series": "archeology-road",
       "titleEn": "2977 ad",
@@ -1087,12 +1175,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2977001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2973001",
       "id": "2973001",
       "series": "archeology-road",
       "titleEn": "2973 ad",
@@ -1103,12 +1192,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2973001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2988001",
       "id": "2988001",
       "series": "archeology-road",
       "titleEn": "2988 ad",
@@ -1119,12 +1209,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2988001",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2911001",
       "id": "2911001",
       "series": "archeology-road",
       "titleEn": "2911 ad",
@@ -1135,12 +1226,13 @@
       "dimensions": {
         "height": 33,
         "width": 50,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/2911001",
       "order": 9
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/QUI001",
       "id": "QUI001",
       "series": "0-quilates",
       "titleEn": "0 quilates 1/43",
@@ -1149,12 +1241,16 @@
       "technique": "plastic/gold leaf",
       "techniqueEs": "plástico/hoja de oro",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/QUI001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/QUI002",
       "id": "QUI002",
       "series": "0-quilates",
       "titleEn": "0 quilates 10/43",
@@ -1163,12 +1259,16 @@
       "technique": "plastic/gold leaf",
       "techniqueEs": "plástico/hoja de oro",
       "dimensions": {
+        "height": null,
+        "width": null,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/QUI002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/QUI003",
       "id": "QUI003",
       "series": "0-quilates",
       "titleEn": "0 quilates 12/43",
@@ -1177,12 +1277,16 @@
       "technique": "plastic/gold leaf",
       "techniqueEs": "plástico/hoja de oro",
       "dimensions": {
+        "height": 1,
+        "width": 2,
+        "unit": "",
+        "depth": null,
         "variable": true
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/QUI003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA001",
       "id": "CUA001",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 1/40",
@@ -1193,12 +1297,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA002",
       "id": "CUA002",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 2/40",
@@ -1209,12 +1314,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA003",
       "id": "CUA003",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 3/40",
@@ -1225,12 +1331,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA004",
       "id": "CUA004",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 4/40",
@@ -1241,12 +1348,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA005",
       "id": "CUA005",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 5/40",
@@ -1257,12 +1365,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA005",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA006",
       "id": "CUA006",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 6/40",
@@ -1273,12 +1382,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA006",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA007",
       "id": "CUA007",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 7/40",
@@ -1289,12 +1399,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA007",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA008",
       "id": "CUA008",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 8/40",
@@ -1305,12 +1416,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA008",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA009",
       "id": "CUA009",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 9/40",
@@ -1321,12 +1433,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA009",
       "order": 9
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA010",
       "id": "CUA010",
       "series": "cuatro-vueltas",
       "titleEn": "cuatro vueltas 10/40",
@@ -1337,12 +1450,13 @@
       "dimensions": {
         "height": 40,
         "width": 30,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CUA010",
       "order": 10
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO001",
       "id": "TRO001",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 1/12",
@@ -1353,12 +1467,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO002",
       "id": "TRO002",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 2/12",
@@ -1369,12 +1484,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO003",
       "id": "TRO003",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 3/12",
@@ -1385,12 +1501,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO004",
       "id": "TRO004",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 4/12",
@@ -1401,12 +1518,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO005",
       "id": "TRO005",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 5/12",
@@ -1417,12 +1535,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO005",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO006",
       "id": "TRO006",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 6/12",
@@ -1433,12 +1552,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO006",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO007",
       "id": "TRO007",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 7/12",
@@ -1449,12 +1569,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO007",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO008",
       "id": "TRO008",
       "series": "trompe-l-oeil",
       "titleEn": "trompe l´oeil 8/12",
@@ -1465,12 +1586,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRO008",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM001",
       "id": "TIM001",
       "series": "pausa",
       "titleEn": "3:15 pm",
@@ -1481,12 +1603,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM002",
       "id": "TIM002",
       "series": "pausa",
       "titleEn": "3:15 pm",
@@ -1497,12 +1620,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM003",
       "id": "TIM003",
       "series": "pausa",
       "titleEn": "9:15 am",
@@ -1513,12 +1637,13 @@
       "dimensions": {
         "height": 190,
         "width": 110,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM004",
       "id": "TIM004",
       "series": "pausa",
       "titleEn": "3:15 pm",
@@ -1529,12 +1654,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM005",
       "id": "TIM005",
       "series": "pausa",
       "titleEn": "10.30 am",
@@ -1545,12 +1671,13 @@
       "dimensions": {
         "height": 180,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM005",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM006",
       "id": "TIM006",
       "series": "pausa",
       "titleEn": "1:15 pm",
@@ -1561,12 +1688,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM006",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM007",
       "id": "TIM007",
       "series": "pausa",
       "titleEn": "7:15 am",
@@ -1577,12 +1705,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM007",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM008",
       "id": "TIM008",
       "series": "pausa",
       "titleEn": "3:15 pm",
@@ -1593,12 +1722,13 @@
       "dimensions": {
         "height": 180,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM008",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM009",
       "id": "TIM009",
       "series": "pausa",
       "titleEn": "12:30 pm",
@@ -1609,12 +1739,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM009",
       "order": 9
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM010",
       "id": "TIM010",
       "series": "pausa",
       "titleEn": "8:30 am",
@@ -1625,12 +1756,13 @@
       "dimensions": {
         "height": 180,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM010",
       "order": 10
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM011",
       "id": "TIM011",
       "series": "pausa",
       "titleEn": "6:30 pm",
@@ -1641,28 +1773,30 @@
       "dimensions": {
         "height": 180,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM011",
       "order": 11
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM012",
       "id": "TIM012",
       "series": "pausa",
       "titleEn": "5:55 pm",
       "titleEs": "5:55 pm",
-      "year": "2008-17",
+      "year": null,
       "technique": "oil/canvas",
       "techniqueEs": "oil/canvas",
       "dimensions": {
         "height": 220,
         "width": 140,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIM012",
       "order": 12
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LEJ001",
       "id": "LEJ001",
       "series": "aqui-es-todas-partes",
       "titleEn": "lejanía de lo inmediato",
@@ -1673,12 +1807,13 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LEJ001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/UNI001",
       "id": "UNI001",
       "series": "aqui-es-todas-partes",
       "titleEn": "un instante de eternidad",
@@ -1689,12 +1824,13 @@
       "dimensions": {
         "height": 90,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/UNI001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ESP001",
       "id": "ESP001",
       "series": "aqui-es-todas-partes",
       "titleEn": "espacio inagotable",
@@ -1705,12 +1841,13 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ESP001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LIM001",
       "id": "LIM001",
       "series": "aqui-es-todas-partes",
       "titleEn": "el hombre inventó los límites",
@@ -1721,12 +1858,13 @@
       "dimensions": {
         "height": 180,
         "width": 135,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LIM001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/INF001",
       "id": "INF001",
       "series": "aqui-es-todas-partes",
       "titleEn": "infinito y más acá",
@@ -1737,12 +1875,13 @@
       "dimensions": {
         "height": 80,
         "width": 60,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/INF001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LUZ001",
       "id": "LUZ001",
       "series": "aqui-es-todas-partes",
       "titleEn": "la luz encuentra la luz",
@@ -1753,28 +1892,30 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/LUZ001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/HOY001",
       "id": "HOY001",
       "series": "aqui-es-todas-partes",
       "titleEn": "hoyo blanco",
       "titleEs": "hoyo blanco",
-      "year": "2007-17",
+      "year": null,
       "technique": "oil/canvas",
       "techniqueEs": "oil/canvas",
       "dimensions": {
         "height": 230,
         "width": 140,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/HOY001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TPA001",
       "id": "TPA001",
       "series": "aqui-es-todas-partes",
       "titleEn": "todas las posibilidades",
@@ -1785,12 +1926,13 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TPA001",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TCA001",
       "id": "TCA001",
       "series": "aqui-es-todas-partes",
       "titleEn": "todas las cosas una cosa",
@@ -1801,12 +1943,13 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TCA001",
       "order": 9
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IMP001",
       "id": "IMP001",
       "series": "aqui-es-todas-partes",
       "titleEn": "y lo imposible también",
@@ -1817,12 +1960,13 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/IMP001",
       "order": 10
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CON001",
       "id": "CON001",
       "series": "aqui-es-todas-partes",
       "titleEn": "confines de lo cercano",
@@ -1833,12 +1977,13 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CON001",
       "order": 11
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MAS001",
       "id": "MAS001",
       "series": "aqui-es-todas-partes",
       "titleEn": "mas vasto que el todo",
@@ -1849,12 +1994,13 @@
       "dimensions": {
         "height": 100,
         "width": 150,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MAS001",
       "order": 12
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O001",
       "id": "H2O001",
       "series": "h2o",
       "titleEn": "h2o 1/12",
@@ -1865,12 +2011,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O002",
       "id": "H2O002",
       "series": "h2o",
       "titleEn": "h2o 2/12",
@@ -1881,12 +2028,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O002",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O003",
       "id": "H2O003",
       "series": "h2o",
       "titleEn": "h2o 3/12",
@@ -1897,12 +2045,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O003",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O004",
       "id": "H2O004",
       "series": "h2o",
       "titleEn": "h2o 4/12",
@@ -1913,12 +2062,13 @@
       "dimensions": {
         "height": 60,
         "width": 40,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/H2O004",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CAM002",
       "id": "CAM002",
       "series": "naranja-dulce",
       "titleEn": "campanita de oro",
@@ -1929,12 +2079,13 @@
       "dimensions": {
         "height": 180,
         "width": 135,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CAM002",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SAN001",
       "id": "SAN001",
       "series": "naranja-dulce",
       "titleEn": "san serafín",
@@ -1945,12 +2096,13 @@
       "dimensions": {
         "height": 180,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SAN001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/DOP001",
       "id": "DOP001",
       "series": "naranja-dulce",
       "titleEn": "do pin we",
@@ -1961,12 +2113,13 @@
       "dimensions": {
         "height": 180,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/DOP001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/RUE001",
       "id": "RUE001",
       "series": "naranja-dulce",
       "titleEn": "a la rueda rueda",
@@ -1977,12 +2130,13 @@
       "dimensions": {
         "height": 180,
         "width": 135,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/RUE001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIT001",
       "id": "TIT001",
       "series": "naranja-dulce",
       "titleEn": "titerefue",
@@ -1993,12 +2147,13 @@
       "dimensions": {
         "height": 180,
         "width": 135,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TIT001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REG001",
       "id": "REG001",
       "series": "saga",
       "titleEn": "regreso a casa",
@@ -2009,12 +2164,13 @@
       "dimensions": {
         "height": 120,
         "width": 80,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/REG001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PAC001",
       "id": "PAC001",
       "series": "saga",
       "titleEn": "pacífico",
@@ -2025,12 +2181,13 @@
       "dimensions": {
         "height": 190,
         "width": 110,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PAC001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CYA001",
       "id": "CYA001",
       "series": "saga",
       "titleEn": "cyan",
@@ -2041,12 +2198,13 @@
       "dimensions": {
         "height": 120,
         "width": 80,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/CYA001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NAT001",
       "id": "NAT001",
       "series": "saga",
       "titleEn": "natura",
@@ -2057,12 +2215,13 @@
       "dimensions": {
         "height": 170,
         "width": 110,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NAT001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ERR001",
       "id": "ERR001",
       "series": "saga",
       "titleEn": "errante",
@@ -2073,12 +2232,13 @@
       "dimensions": {
         "height": 190,
         "width": 110,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/ERR001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/OJO001",
       "id": "OJO001",
       "series": "saga",
       "titleEn": "ojo de agua",
@@ -2089,12 +2249,13 @@
       "dimensions": {
         "height": 165,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/OJO001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MWO001",
       "id": "MWO001",
       "series": "saga",
       "titleEn": "MW",
@@ -2105,12 +2266,13 @@
       "dimensions": {
         "height": 80,
         "width": 80,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MWO001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SAG001",
       "id": "SAG001",
       "series": "saga",
       "titleEn": "saga",
@@ -2121,12 +2283,13 @@
       "dimensions": {
         "height": 190,
         "width": 110,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/SAG001",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/VEN001",
       "id": "VEN001",
       "series": "saga",
       "titleEn": "ventana",
@@ -2137,12 +2300,13 @@
       "dimensions": {
         "height": 180,
         "width": 135,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/VEN001",
       "order": 9
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/VIA001",
       "id": "VIA001",
       "series": "trece-lunas",
       "titleEn": "el viaje",
@@ -2153,12 +2317,13 @@
       "dimensions": {
         "height": 170,
         "width": 120,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/VIA001",
       "order": 1
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEC001",
       "id": "PEC001",
       "series": "trece-lunas",
       "titleEn": "pec",
@@ -2169,12 +2334,13 @@
       "dimensions": {
         "height": 175,
         "width": 130,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/PEC001",
       "order": 2
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MAD001",
       "id": "MAD001",
       "series": "trece-lunas",
       "titleEn": "madre tierra",
@@ -2185,12 +2351,13 @@
       "dimensions": {
         "height": 130,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MAD001",
       "order": 3
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/GRA001",
       "id": "GRA001",
       "series": "trece-lunas",
       "titleEn": "gran puerta",
@@ -2201,12 +2368,13 @@
       "dimensions": {
         "height": 130,
         "width": 200,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/GRA001",
       "order": 4
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NQP001",
       "id": "NQP001",
       "series": "trece-lunas",
       "titleEn": "no quiero plata",
@@ -2217,12 +2385,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NQP001",
       "order": 5
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRE001",
       "id": "TRE001",
       "series": "trece-lunas",
       "titleEn": "tres gracias",
@@ -2233,12 +2402,13 @@
       "dimensions": {
         "height": 110,
         "width": 140,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/TRE001",
       "order": 6
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NIN001",
       "id": "NIN001",
       "series": "trece-lunas",
       "titleEn": "niña leyendo",
@@ -2249,12 +2419,13 @@
       "dimensions": {
         "height": 150,
         "width": 100,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/NIN001",
       "order": 7
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/HUE001",
       "id": "HUE001",
       "series": "trece-lunas",
       "titleEn": "huellas de luna",
@@ -2265,12 +2436,13 @@
       "dimensions": {
         "height": 70,
         "width": 105,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/HUE001",
       "order": 8
     },
     {
+      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MAR001",
       "id": "MAR001",
       "series": "trece-lunas",
       "titleEn": "marina",
@@ -2281,9 +2453,9 @@
       "dimensions": {
         "height": 250,
         "width": 115,
-        "unit": "cm"
+        "unit": "cm",
+        "depth": null
       },
-      "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/MAR001",
       "order": 9
     }
   ]
