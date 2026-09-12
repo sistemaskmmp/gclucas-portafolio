@@ -1271,14 +1271,14 @@
       "cloudinaryUrl": "https://res.cloudinary.com/dt2w4nxz6/image/upload/f_auto,q_auto/obras/QUI003",
       "id": "QUI003",
       "series": "0-quilates",
-      "titleEn": "0 quilates 12/43",
-      "titleEs": "0 quilates 12/43",
+      "titleEn": "0 quilates 12/4333",
+      "titleEs": "0 quilates 12/4333",
       "year": 2010,
       "technique": "plastic/gold leaf",
       "techniqueEs": "plástico/hoja de oro",
       "dimensions": {
-        "height": 1,
-        "width": 2,
+        "height": 1222,
+        "width": 2222,
         "unit": "",
         "depth": null,
         "variable": true
